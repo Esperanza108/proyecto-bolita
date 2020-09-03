@@ -1,0 +1,35 @@
+a:hover{
+     color: yellow;
+}
+
+.color2{
+    background: green 
+ }
+
+.display-4 { font-weight: 400;
+
+}
+
+
+.card{
+border: 0px
+}
+
+
+.card-body { 
+padding: 0rem; 
+     
+
+}
+
+footer{
+     padding: 0rem;
+}
+}
+ /* .color1{     
+     background-color: #343a40;    
+}
+
+a{
+color: white;
+}
